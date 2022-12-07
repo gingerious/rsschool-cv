@@ -42,3 +42,4 @@ The courses I have taken:
 
 [HTML Academy](https://htmlacademy.ru/study)
  
+ 
