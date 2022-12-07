@@ -1,4 +1,4 @@
-# RSShool-CV
+# RSSchool-CV
 
 
 # Nikita Nikonorov
