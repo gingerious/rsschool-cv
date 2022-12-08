@@ -1,2 +1,2 @@
 # rsschool-cv
-[GitHub](https://github.com/gingerious/rsschool-cv/blob/gh-pages/cv.md)
+[https://gingerious.github.io/rsschool-cv/cv](https://gingerious.github.io/rsschool-cv/cv)
