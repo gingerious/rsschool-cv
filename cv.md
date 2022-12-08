@@ -34,7 +34,7 @@ B1
 ```
 
 ## Education
-I'm study in the Belarusian National University,law faculty
+I'm study in the Belarusian State University,law faculty
 
 The courses I have taken:
 
